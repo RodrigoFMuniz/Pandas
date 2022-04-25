@@ -1,1 +1,4 @@
 # Pandas
+## Datatypes
+- Series
+- DataFrame
