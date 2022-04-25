@@ -4,8 +4,7 @@
 - DataFrame
 ### Series
 
-> import pandas as pd
-> 
-> names = ['Rodrigo', 'Fernando', 'Jéssica']
-> data = pd.Series(data = names)
-> print(data)
+      import pandas as pd
+      names = ['Rodrigo', 'Fernando', 'Jéssica']
+      data = pd.Series()
+      print(data)
