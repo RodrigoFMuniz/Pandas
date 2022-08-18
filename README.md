@@ -22,3 +22,6 @@
 
 ## Importing CSV files
       data = pd.read_csv('path', encoding='utf-8', index=False)
+
+## Importing excel files
+      data = pd.read_excel('path', encoding='utf-8', index=False)
