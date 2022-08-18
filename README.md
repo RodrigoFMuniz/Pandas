@@ -19,3 +19,6 @@
       d1 = pd.DataFrame({"1":"Primeira","2":"segunda"})
 
       print(d1)
+
+## Importing CSV files
+      data = pd.read_csv('path', encoding='utf-8', index=False)
